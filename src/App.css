@@ -1,0 +1,25 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.game-title {
+  background-color: aliceblue;
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+
+.app-word {
+  font-size: 60px;
+  font-style: italic;
+}
+
+.game-input {
+  border: none;
+  border-radius: 5px;
+  font-size: large;
+  padding: 10px 10px;
+}
